@@ -29,7 +29,7 @@ This project is based on the [Silero VAD (C#)](https://github.com/snakers4/siler
    git clone https://github.com/MelissaJSM/SileroVAD-For-Unity.git
    ```
 
-2. Open the project in Unity.
+2. Open the project in Unity. (If you see an error notice, please press the Ignore button. If you add it in the future package, it will disappear.)
 
 3. Install Package (Window -> Package Manager -> My Registry -> NPM -> ONNX Runtime (ALL)
 
