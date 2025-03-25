@@ -33,7 +33,7 @@ This project is based on the [Silero VAD (C#)](https://github.com/snakers4/siler
 
 3. Start the SileroVAD Scene.
 
-4. Audio files support a sampling rate of 16000 Hz and mono-channel.
+4. The audio file supports a sampling rate of 16000 Hz and a monochannel .wav File.
 
 ---
 
