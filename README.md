@@ -31,7 +31,7 @@ This project is based on the [Silero VAD (C#)](https://github.com/snakers4/siler
 
 2. Open the project in Unity.
 
-3. Install Package (Window -> Package Manager -> My Registry -> NPM -> ONNX(ALL)
+3. Install Package (Window -> Package Manager -> My Registry -> NPM -> ONNX Runtime (ALL)
 
 5. Start the SileroVAD Scene.
 
