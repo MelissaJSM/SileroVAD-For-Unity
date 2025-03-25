@@ -1,4 +1,4 @@
-# Unity Silero VAD (C# Port)
+# SileroVAD-For-Unity
 
 This is a project that reconstructs the C# code of Silero VAD into Unity.
 This project is based on the [Silero VAD (C#)](https://github.com/snakers4/silero-vad/tree/master/examples/csharp) project, ported to work in real-time within the Unity engine.
