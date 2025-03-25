@@ -73,4 +73,4 @@ Please follow their repository’s terms when using model files and logic.
 ## ✨ Credits
 
 - Original VAD logic and model: [Silero](https://github.com/snakers4/silero-vad)
-- Unity C# Implementation: [Your Name or GitHub ID](https://github.com/your-username)
+- Unity C# Implementation: [MelissaJ](https://github.com/MelissaJSM)
