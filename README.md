@@ -31,9 +31,11 @@ This project is based on the [Silero VAD (C#)](https://github.com/snakers4/siler
 
 2. Open the project in Unity.
 
-3. Start the SileroVAD Scene.
+3. Install Package (Window -> Package Manager -> My Registry -> NPM -> ONNX(ALL)
 
-4. The audio file supports a sampling rate of 16000 Hz and a monochannel .wav File.
+5. Start the SileroVAD Scene.
+
+6. The audio file supports a sampling rate of 16000 Hz and a monochannel .wav File.
 
 ---
 
