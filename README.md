@@ -59,7 +59,7 @@ This project is based on the [Silero VAD (C#)](https://github.com/snakers4/siler
 
 This project is based on the following:
 
-- [Silero VAD (Python)](https://github.com/snakers4/silero-vad/tree/master/examples/csharp)  
+- [Silero VAD (C#)](https://github.com/snakers4/silero-vad/tree/master/examples/csharp)  
   ⮑ Author: Silero Team  
   ⮑ License: MIT License
 
