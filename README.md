@@ -33,6 +33,8 @@ This project is based on the [Silero VAD (C#)](https://github.com/snakers4/siler
 
 3. Start the SileroVAD Scene.
 
+4. Audio files support a sampling rate of 16000 Hz and mono-channel.
+
 ---
 
 ## 📂 Project Structure
@@ -46,6 +48,7 @@ This project is based on the [Silero VAD (C#)](https://github.com/snakers4/siler
     SileroVadOnnxModel.cs
   /StreamingAssets
     silero_vad.onnx
+    audioFile.wav
 ```
 
 ---
